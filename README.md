@@ -76,10 +76,6 @@
 </a>
 </p>
 
-## Contribution Graph: 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AriyanPal08/AriyanPal08/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ## Profile Views:
 
