@@ -1,4 +1,9 @@
 # Hello !! 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5C3EE8&center=true&vCenter=true&width=435&lines=AI+%2B+IoT+Developer;MLOps+Enthusiast;Hackathon+Organizer" alt="Typing SVG" />
+  </a>
+</div>
 
 <table>
   <tr>
@@ -52,6 +57,12 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
+## My GitHub Stats 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" alt="top languages" />
+</div>
 
 
 ## Socials:
