@@ -7,8 +7,8 @@
     </td>
     <td align="center" width="300">
       <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="80" alt="Oggy" />
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Tom" />
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGYzeW02ODVrdGxhYmEwZGFlNnA4dHp0aWdnMW1raWNmOHhydDVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55cX2zvcUP1vMlNIMF/giphy.gif" width="80" alt="Loki" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzUwaDU5ZG5zbWZ5c2QzOXJkNHR3bnRoMzVsdGFsMDRmOHJoeGVqbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cxWG5eigQt1K0/giphy.gif" width="80" alt="Tom" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGYzeW02ODVrdGxhYmEwZGFlNnA4dHp0aWdnMW1raWNmOHhydDVtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55cX2zvcUP1vMlNIMF/giphy.gif" width="80" alt="OGGY" />
     </td>
   </tr>
 </table>
