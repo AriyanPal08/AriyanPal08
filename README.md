@@ -1,4 +1,4 @@
-# Hiiiiiiiiiiii!! 👋
+# Hiiiiiiiiiiii!! 
 
 <table>
   <tr>
@@ -14,15 +14,15 @@
 </table>
 
 
-## Languages & Tools 👨‍💻🛠️:
+## Languages & Tools :
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
-### 🧠 Machine Learning & Data Science
+### Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -32,21 +32,21 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### 👁️ Computer Vision
+### Computer Vision
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/Ultralytics-010101?style=for-the-badge" />
 </p>
 
-### 🤖 Hardware & IoT
+### Hardware & IoT
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Data
+### Databases & Data
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
