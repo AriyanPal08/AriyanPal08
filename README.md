@@ -60,9 +60,9 @@
   <a href="https://www.linkedin.com/in/ariyan-pal-590b0b321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="<a href="mailto:ariyanpal0@gmail.com" target="_blank">
+  <a href="mailto:ariyanpal0@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>" target="_blank">
+</a>">
 </p>
 
 ## Profile Views:
