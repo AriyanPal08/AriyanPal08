@@ -1,14 +1,14 @@
 # Hello !! 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5C3EE8&center=true&vCenter=true&width=435&lines=AI+%2B+IoT+Developer;MLOps+Enthusiast;Hackathon+Organizer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5C3EE8&center=true&vCenter=true&width=435&lines=ML+%2B+IoT+Developer;MLOEnthusiast;" alt="Typing SVG" />
   </a>
 </div>
 
 <table>
   <tr>
     <td align="center" width="500">
-      <p>I am an ML enthusiast learning both hardware IoT and software libraries from Python, and I aspire to be an MLOps Engineer.</p>
+      <p>I am an ML enthusiast and learning both hardware IoT and software libraries from Python.</p>
     </td>
     <td align="center" width="300">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N3YTA4anJnZDFsOTQyaGhiaTJzOGUzOTRna2VidXAxNjN5YjE2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkR7q9XjU6dQJO19Bk/giphy.gif" width="80" alt="Oggy" />
