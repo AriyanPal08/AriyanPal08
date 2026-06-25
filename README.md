@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center" width="500">
-      <p>I am an ML enthusiast and learning both hardware IoT and software libraries from Python.</p>
+      <p>I am a ML enthusiast and learning both hardware IoT and software libraries from Python.</p>
     </td>
     <td align="center" width="300">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N3YTA4anJnZDFsOTQyaGhiaTJzOGUzOTRna2VidXAxNjN5YjE2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkR7q9XjU6dQJO19Bk/giphy.gif" width="80" alt="Oggy" />
