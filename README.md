@@ -1,4 +1,4 @@
-# Hello !! 
+# Hello everyone !! 
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5C3EE8&center=true&vCenter=true&width=435&lines=ML+%2B+IoT+Developer;ML+Enthusiast;" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td align="center" width="500">
-      <p>I am a ML enthusiast and learning both hardware IoT and software libraries from Python.</p>
+      <p>I am a ML enthusiast and learning both hardware  consisting of IoT and software libraries from Python.</p>
     </td>
     <td align="center" width="300">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N3YTA4anJnZDFsOTQyaGhiaTJzOGUzOTRna2VidXAxNjN5YjE2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gkR7q9XjU6dQJO19Bk/giphy.gif" width="80" alt="Oggy" />
