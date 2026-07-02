@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
-## My GitHub Stats 
+## My GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AriyanPal08&show_icons=true&theme=radical" height="150" alt="stats graph" />
